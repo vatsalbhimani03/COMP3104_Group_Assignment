@@ -1,3 +1,7 @@
-Imformation about importance of learning
-DevOps engineer in software development life cycle
+Information about importance of learning DevOps engineer in software development life cycle
+
+There are numerous benefits of learning DevOps in SDLC. DevOps Engineer can get increment in deployment success rate. 
+They can shorten production cycles. We can increase efficiency through automation as well as improve collaboration and 
+communication using DevOps. Product quality can also be increased by DevOps.
+
 
