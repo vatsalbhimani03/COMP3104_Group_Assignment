@@ -1,5 +1,22 @@
 Software Development Life Cycle
 
-It is a methodology to create high quality software and focuses on planning, testing, development,
-software design (architectural design), software development etc. which are known to be the phases of
-software development.
+It is a methodology to create high quality software with as low cost as possible in very short
+period of time and focuses on planning, testing, development,software design (architectural design), 
+software development etc. which are known to be the phases of software development.
+
+The most popular models of SDLC are waterfall model, agile model and spiral model. Even though the
+cost is lowered, the quality continuously improves and the production time is shortened in SDLC. Such goals
+are achieved by careful planning which removes the typical pitfalls of software development projects. It starts
+by evaluating the systems which already exist and check for any deficiences. Then the requirements of the new 
+system are defined through the different stages. The testing phase has the most foucs as they have to make sure 
+the code quality is not compromised. Because SDLC is a repetitive methodology, the code quality matters a lot 
+especially because of competition in the market and it could save a lot of time and money with the right effort.
+
+The process works when you are aware what is the current problem and then create a plan and design the same which 
+gives an idea about the resources available and the cost as per the requirements. The team should also be aware of 
+the risks associated while building. After the code is built, it needs to be tested and if it meets the requirements,
+the next step is software deployment, which allows the stakeholders to experiment with the product before it is being
+released into the market to make sure any last minute mistakes don't appear.
+
+
+
