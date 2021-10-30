@@ -1,0 +1,5 @@
+Information About Course COMP3104
+
+This Course will be finishing with concepts and knowledge needed for interviews and environments where you may be exposed to the concepts of Devops.
+The chances are quite high given the current market demand for this type of knowledge. 
+This course won’t make you a DevOps engineer, but it will shine some light in a part of the industry that developers will soon have to become much more familiar with. 
