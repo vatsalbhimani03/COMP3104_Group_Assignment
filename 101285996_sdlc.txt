@@ -1,1 +1,21 @@
 Importance of Learning About Devops Enginner
+
+DevOps Engineers are either system admins having a passion for coding, scripting, and moving towards development to improvise the system of panning for tests and deployments or get into as developers having an interest in network operations and deployment.
+They usually assist developers and the IT staffs to have supervision on the code releases.
+
+Their focuses lie upon maintenance and automation in the existing world in live production.
+Then it becomes easy to apply for a profession that highlights maintenance and automation of system development, products, and service delivery. 
+
+These engineers aid IT, developers, to improvise coordination between development, operations, and testing functionalities by automating and streamlining deployment processes and the integration.
+
+DevOps roles and responsibilities for a person given below talk about automation, integration, and cloud coding languages. Therefore, the experience of at least two in development, integration, or related becomes a mandate to succeed in this position. This can be gained by IT Project managers, Systems managers, or Database Administrators. 
+
+The experience of deploying many automation tools of DevOps is a must.
+Thorough knowledge of software development through automation tools is necessary.
+The agile methodology of continuous iteration in the software development and testing is helpful for the DevOps Engineers to apply agile in day to day tasks of DevOps. 
+To have a smooth flow in becoming a development operations engineer, one must be an expert in deployment and software code testing.
+He needs to be working with a mixture of technologies and many open-source tools to efficiently manage source codes.
+Knowledge of one scripting language, various programming languages of computer, and understanding of the basic Linux concepts would suffice.
+Prime aspires of DevOps must be having the capability to connect to technical and business goals with enthusiasm.
+The person with the ability to handle a team and also having better communication skills becomes a complete DevOps professional.
+Thoroughly knowing about system admin roles and IT operations to organize the entire deployment and integration process would highly benefit.
