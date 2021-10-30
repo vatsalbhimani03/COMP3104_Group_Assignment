@@ -1,8 +1,3 @@
-COMP3104 - Assignment 1 
-Group 27 Members:
+COMP3104 - Assignment 1
 
-
-    Vatsal Bhimani - 101282605  
-    Shehzad Contractor - 101285996
-    Vishwa Mavani - 101285743
-    Sania Juddha - 101280650
+Hi This is Shehzad Contractor-101285996 and this is my branch which has three files in it for information on George Brown, Course COMP3104 and Information on Deovops Enginner
