@@ -3,7 +3,7 @@ Information about DevOps Course
 DevOps is a combination of Software Development(Dev) and IT Operations(Ops). DevOps is a set of processes aimed at 
 shortening the time between committing a system change and putting it into normal production. Its main goal is to 
 abbreviate the systems development life cycle and provide high-quality software delivery on a continual basis. Numerous 
-Features of DevOps are derived from the Agile methodology. DevOps contains various categories, for instance, 
-Devlpoment has Plan, Code, Build factors and Test, whereas, Operations has Release, Deploy, Operate and Monitor 
-factors. There are lot of tools that we can use in different categories. For example, we can use Jenkins in release part, 
-Git Bash can be used in coding factor, there are many others which can be used to do similar work.
+features of DevOps are derived from the Agile methodology. DevOps contains various categories, for instance, 
+Development has Plan, Code, Build factors and Test, whereas, Operations has Release, Deploy, Operate and Monitor 
+factors. There are a lot of tools that we can use in different categories. For example, we can use Jenkins in the release 
+part, Git Bash can be used in coding factors, many others can be used to do similar work.
