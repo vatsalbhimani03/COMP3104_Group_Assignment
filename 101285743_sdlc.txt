@@ -1,1 +1,5 @@
 Software Development Life Cycle
+
+It is a methodology to create high quality software and focuses on planning, testing, development,
+software design (architectural design), software development etc. which are known to be the phases of
+software development.
