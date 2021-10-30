@@ -1,3 +1,7 @@
 Course 3104
 
-This course includes
+This course includes a wide range of topics and gives a student an idea about what a DevOps engineer
+does. In our course, the tol that is used the most is GitBASH. The course explains how and why are the 
+development tools used and what is the purpose behind it. There will be a lot of terms that we'll learn in the
+course and the commonly used are - DevOps, BASH, Terminal, Node, Build, Build process, CD/CI pipeline etc.
+
