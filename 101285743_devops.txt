@@ -1,0 +1,14 @@
+Course 3104
+
+This course includes a wide range of topics and gives a student an idea about what a DevOps engineer
+does. In our course, the tool that is used the most is GitBASH. The course explains how and why are the 
+development tools used and what is the purpose behind it. There will be a lot of terms that we'll learn in the
+course and the commonly used are - DevOps, BASH, Terminal, Node, Build, Build process, CD/CI pipeline etc.
+
+It has allowed a lot of businesses to work independently and quickly as compared to the previous times because 
+the process was time consuming earlier than now. To introduce this subject is a great way to teach students 
+about the present and future of DevOps because it introduces us with a wide range of topics and tools such as-
+Git, Github, GitBASH, Version Control System, Single Page Application etc. and our hands on lab work helps us 
+practice it which can be used not only for front end but also back end. Creating repositories, working with Travis, 
+understanding BASH commands, understanding pipeline sequences etc. has provided me great knowledge and the deeper we 
+dive into the course, new topics unflod which in turn will help the students grow in their field.
