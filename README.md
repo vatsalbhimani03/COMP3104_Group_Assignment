@@ -1,5 +1,6 @@
 COMP3104 - Assignment 1 
-Group 27 Members:
+Group 27 
+Members:
 
 
     Vatsal Bhimani - 101282605  
