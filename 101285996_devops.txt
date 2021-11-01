@@ -1,0 +1,10 @@
+Information About Course COMP3104
+
+This Course will be finishing with concepts and knowledge needed for interviews and environments where you may be exposed to the concepts of Devops.
+The chances are quite high given the current market demand for this type of knowledge. 
+This course won’t make you a DevOps engineer, but it will shine some light in a part of the industry that developers will soon have to become much more familiar with. 
+Whether you’re a front-end developer working with a QA (Quality Assurance) analyst, a back-end developer working with Senior Architects or a network administrator supporting infrastructure, you will need to know the terminology commonly used and what’s considered to be best practices when it comes to successfully shipping software.
+Along with some of the tools mentioned, we’ll also be leveraging and exploring some of the underlying protocols which make working with servers a cinch.
+This will remove some of the magic from the tools we use. Along with some lower-level knowledge, our intention is to spawn new ideas and explore creative solutions to common problems.
+
+Course COMP3104
